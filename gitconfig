@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = estelle.bortollon@proton.me
+	name = Estelle Bortollon
